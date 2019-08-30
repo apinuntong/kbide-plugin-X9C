@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-X9C",
+  "title": "X9CXX",
+  "keywords": "X9C, esp32, esp8266, arduino",
+  "description": "X9C plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/apinuntong/kbide-plugin-X9C/",
+  "author": "ER9XTO",
+  "email": "",
+  "url": "https://github.com/apinuntong/kbide-plugin-X9C/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "https://github.com/philbowles/Arduino-X9C",
+  "image" : "/static/DigitalPotentiometer.png",
+  "homepage": "http://www.kbide.org"
+}

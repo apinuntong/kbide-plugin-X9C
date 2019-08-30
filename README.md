@@ -1,1 +1,1 @@
-# kbide-plugin-X9C
+# X9C library for KB-IDE
